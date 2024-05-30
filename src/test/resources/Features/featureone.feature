@@ -13,7 +13,7 @@
 #| (Data Tables)
 #@ (Tags/Labels):To group Scenarios
 #<> (placeholder)
-#""git hub token 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
+#""
 ## (Comments)
 #Sample Feature Definition Template
 @tag
